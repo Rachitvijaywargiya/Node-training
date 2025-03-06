@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start":"nodemon todo.js",
-     "build": "tsc"
+     "build": "echo 'No build step required'"
   },
   "author": "Rachit",
   "license": "ISC",
