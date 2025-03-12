@@ -1,4 +1,4 @@
-name: hello CI/CD Pipeline
+name: demo CI/CD Pipeline
 
 on:
   push:
