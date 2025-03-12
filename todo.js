@@ -5,8 +5,7 @@ const obj=[{
 {id:3,task:"study"},
 {id:4,task:"music"},
 {id:5,task:"Dsa"},
-{id:6,task:"sports"}
-           
+{id:6,task:"sports"}      
 ];
 const app=express();
 
